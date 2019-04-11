@@ -1,0 +1,14 @@
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EF.mdf
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EF_log.ldf
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\ШадикьянР\source\repos\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
